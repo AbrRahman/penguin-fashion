@@ -8,3 +8,9 @@
     background:#3D4FF3;
     border: none;
 }
+.bg-shoes{
+   background: #F1F1F1;
+}
+.img-max-height{
+    max-height: 330;
+}
